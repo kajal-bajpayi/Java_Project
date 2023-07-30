@@ -7,3 +7,7 @@
 4. Ended the game by telling the user how many guesses it took to correctly guess the random number.
 
 ## Project 2: 
+1. Developed a basic command line application in java for managing to do tasks.
+2. Designed and implemented the application using Java and ArrayList data structure.
+3. Create features like to add task, remove task , view task and delete task. Achieved efficient task management.
+
